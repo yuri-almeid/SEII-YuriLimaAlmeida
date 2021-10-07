@@ -56,7 +56,7 @@ class drone(object):
         self.l_thrust = 0
         self.r_thrust = 0
         self.vel = [0, 0]
-        self.max_thrust = 100
+        self.max_thrust = 200
         self.min_thrust = 0
         self.mass = 1E3
         self.arm_length = 25
